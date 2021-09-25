@@ -1,3 +1,12 @@
 [submodule "example-webbuilder"]
 	path = example-webbuilder
 	url = https://github.com/mikezyeman/example-webbuilder.git
+[submodule "example-dataapi"]
+	path = example-dataapi
+	url = https://github.com/mikezyeman/example-dataapi.git
+[submodule "example-login"]
+	path = example-login
+	url = https://github.com/mikezyeman/example-login.git
+[submodule "example-transport"]
+	path = example-transport
+	url = https://github.com/mikezyeman/example-transport.git
